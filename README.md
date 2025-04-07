@@ -1,3 +1,4 @@
-# Landing_Page
+Landing Page
 
-This is an impressive landing page for an website for any car enthusiast
+This landing page is created to attract car enthusiasts
+
